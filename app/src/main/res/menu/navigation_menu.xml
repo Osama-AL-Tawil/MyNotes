@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/nvNotes"
+    android:title="Notes"
+    android:icon="@drawable/icc_home"
+    app:showAsAction="withText"
+    />
+
+    <item android:id="@+id/space1"
+    android:title=""
+    app:showAsAction="always"
+    />
+
+
+
+
+    <item android:id="@+id/nvFavorite"
+    android:title="Favorite"
+    android:icon="@drawable/icc_favorite"
+    app:showAsAction="withText"
+    />
+</menu>

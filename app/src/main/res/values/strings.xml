@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Sign up</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="already_have_an_account">Already Have an Account</string>
+    <string name="next">Next</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="get_started">Get Started</string>
+
+    <!--Validation-->
+    <string name="WrongEmail">Wrong Email Address</string>
+    <string name="WrongPhone">Wrong Phone Number</string>
+    <string name="EmptyField">Empty Field</string>
+    <string name="LoginSuccess">Login Success</string>
+    <string name="Message">Something is Wrong ,Check your email and Password</string>
+    <string name="ServerError">Something is Wrong</string>
+</resources>

@@ -1,0 +1,44 @@
+<ripple xmlns:tools="http://schemas.android.com/tools"
+    android:color="@color/ripple" xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80"
+    tools:targetApi="lollipop">
+<item>
+  <vector
+      android:width="80dp"
+      android:height="80dp"
+      android:viewportWidth="80"
+      android:viewportHeight="80">
+    <path
+        android:pathData="M40,33m-26.5,0a26.5,26.5 0,1 1,53 0a26.5,26.5 0,1 1,-53 0">
+
+      <aapt:attr name="android:fillColor">
+
+        <gradient
+            android:startY="13.178"
+            android:startX="25.69"
+            android:endY="86.265"
+            android:endX="87.912"
+            android:type="linear">
+          <item android:offset="0" android:color="#FFFFD800"/>
+          <item android:offset="1" android:color="#FFFF0034"/>
+        </gradient>
+      </aapt:attr>
+    </path>
+    <path
+        android:pathData="M40.215,20.809a1,1 0,0 0,-1 1L39.215,44.619a1,1 0,1 0,2 0L41.215,21.809A1,1 0,0 0,40.215 20.809Z"
+        android:strokeWidth="3"
+        android:fillColor="#fff"
+        android:strokeColor="#fff"/>
+    <path
+        android:pathData="M51.619,32.213L28.809,32.213a1,1 0,1 0,0 2L51.619,34.213a1,1 0,1 0,0 -2Z"
+        android:strokeWidth="3"
+        android:fillColor="#fff"
+        android:strokeColor="#fff"/>
+  </vector>
+</item>
+
+</ripple>
